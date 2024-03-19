@@ -4,7 +4,9 @@ SNES emulator optimised for Maemo-Leste (N900)
 To be able to build this emulator you need:
 
 x11proto-xsp-dev from android-808 repo https://github.com/android-808/x11proto-xsp
+
 libxsp0 and libxsp-dev from android-808 repo https://github.com/android-808/libxsp
+
 libsdl-haa from android-808 repo https://github.com/android-808/sdlhaa
 
 GUI is still broken at the moment but games work fine.
